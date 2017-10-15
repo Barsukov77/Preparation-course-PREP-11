@@ -320,7 +320,7 @@ int main(int argc, char const *argv[])
  		free_tree(tree);
  	}
 
- 	print_tree(tree->root);
+ 	//print_tree(tree->root);
 
     free_tree(tree);
 
