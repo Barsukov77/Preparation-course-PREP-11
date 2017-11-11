@@ -2,7 +2,7 @@
 const int N = 3;
 
 int main(void)
-{
+{	
 	Complex<int> v1[N];
 	Complex<int> v2[N];
 	try
@@ -42,6 +42,5 @@ int main(void)
 		return 0;
 	}
 
-	system("pause");
 	return 0;
 }
